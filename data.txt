@@ -1,0 +1,5 @@
+Ini adalah data text yang dibuat dengan menggunakan python
+Ini baris ke-dua
+Ini baris ke-tiga
+Ini baris ke-empat
+Baris ini dibuat menggunakan mode append
